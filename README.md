@@ -25,4 +25,4 @@ This project is **free to use** and does not contain any specific license. Pleas
 Feel free to fork the repository and submit pull requests. Your contributions are welcome!
 
 ### 📫 Contact
-For any inquiries, please reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries, please reach out to me at [mahekjkevat@gmail.com](mailto:your-email@example.com).

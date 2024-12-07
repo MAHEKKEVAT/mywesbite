@@ -1,8 +1,8 @@
 <div align="center">
 
-# SimpleBlog - A Blog Website
+# MyWebsite - A MyWebsite
 
-SimpleBlog is a completely responsive personal blog website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
+MyWebsite is a completely responsive  website that is compatible with all mobile devices, has Dark and light themes, and is built using HTML, CSS, and JavaScript.
 
  <a href="https://mahekkevat.github.io/mywesbite/"><strong>➥ Live Demo</strong></a> 
  
